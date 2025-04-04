@@ -63,3 +63,6 @@ npm run build
 # 📧 Contact
 
 For any information or queries, feel free to reach out at **[akankshasingh8086@gmail.com](mailto:akankshasingh8086@gmail.com)**.
+## 🌐 Live Demo
+
+Check out the live demo of the project here: [Multi-Step Form](https://multi-step-form-react-ecru.vercel.app/)
